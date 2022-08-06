@@ -7,9 +7,18 @@ public class ReassigningValues {
         System.out.println(first);
         System.out.println(second);
         System.out.println(third);
-        System.out.println(15);
-        System.out.println(6);
-        System.out.println(4);
+
+        first = 15;
+        second = 6;
+        third = 4;
+
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
+
+        first = 1;
+        second = 10;
+        third = 100;
         System.out.println(first);
         System.out.println(second);
         System.out.println(third);
